@@ -1,0 +1,7 @@
+# For loop example
+
+छापा("१ ते ५ संख्या:")
+
+# Using a simple for loop with range
+साठी i मध्ये श्रेणी(1, 6):
+    छापा(i) 
