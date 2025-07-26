@@ -25,10 +25,10 @@
   --radius: 0.5rem;
   
   /* Custom colors for Marathi-Lang */
-  --electric: hsl(262, 83%, 58%);
-  --cyan: hsl(188, 94%, 43%);
+  --electric: hsl(262, 83%, 70%);
+  --cyan: hsl(188, 94%, 65%);
   --neon-green: hsl(142, 76%, 36%);
-  --hot-pink: hsl(322, 84%, 60%);
+  --hot-pink: hsl(322, 84%, 72%);
   --deep-dark: hsl(0, 0%, 4%);
   --card-dark: hsl(0, 0%, 10%);
 }

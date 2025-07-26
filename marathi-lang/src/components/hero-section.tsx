@@ -19,7 +19,8 @@ export default function HeroSection() {
             />
           </div> */}
 
-          <h1 className="text-5xl md:text-7xl font-display font-bold mb-6 bg-gradient-to-r from-electric via-cyan to-hot-pink bg-clip-text text-transperent">
+          <h1 className="text-5xl md:text-7xl font-display font-bold mb-6 bg-gradient-to-r from-electric via-cyan to-hot-pink bg-clip-text "
+            style={{ textShadow: '0 0 4px rgba(22, 116, 230, 0.3)' }}>
             मराठी-लँग
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-4">
